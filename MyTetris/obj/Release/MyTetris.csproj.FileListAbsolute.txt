@@ -1,0 +1,18 @@
+I:\C++作业\C++2015\MyTetris\MyTetris\bin\Release\MyTetris.exe.config
+I:\C++作业\C++2015\MyTetris\MyTetris\bin\Release\MyTetris.exe
+I:\C++作业\C++2015\MyTetris\MyTetris\bin\Release\MyTetris.pdb
+I:\C++作业\C++2015\MyTetris\MyTetris\obj\Release\MyTetris.Form1.resources
+I:\C++作业\C++2015\MyTetris\MyTetris\obj\Release\MyTetris.Properties.Resources.resources
+I:\C++作业\C++2015\MyTetris\MyTetris\obj\Release\MyTetris.csproj.GenerateResource.Cache
+I:\C++作业\C++2015\MyTetris\MyTetris\obj\Release\MyTetris.exe
+I:\C++作业\C++2015\MyTetris\MyTetris\obj\Release\MyTetris.pdb
+I:\C++作业\C++2015\MyTetris\MyTetris\obj\Release\MyTetris.csprojResolveAssemblyReference.cache
+C:\Users\Jeany\documents\visual studio 2013\Projects\MyTetris\MyTetris\bin\Release\MyTetris.exe.config
+C:\Users\Jeany\documents\visual studio 2013\Projects\MyTetris\MyTetris\obj\Release\MyTetris.exe
+C:\Users\Jeany\documents\visual studio 2013\Projects\MyTetris\MyTetris\obj\Release\MyTetris.pdb
+C:\Users\Jeany\documents\visual studio 2013\Projects\MyTetris\MyTetris\bin\Release\MyTetris.exe
+C:\Users\Jeany\documents\visual studio 2013\Projects\MyTetris\MyTetris\bin\Release\MyTetris.pdb
+C:\Users\Jeany\documents\visual studio 2013\Projects\MyTetris\MyTetris\obj\Release\MyTetris.Form1.resources
+C:\Users\Jeany\documents\visual studio 2013\Projects\MyTetris\MyTetris\obj\Release\MyTetris.Properties.Resources.resources
+C:\Users\Jeany\documents\visual studio 2013\Projects\MyTetris\MyTetris\obj\Release\MyTetris.csproj.GenerateResource.Cache
+C:\Users\Jeany\Documents\Visual Studio 2013\Projects\MyTetris\MyTetris\obj\Release\MyTetris.csprojResolveAssemblyReference.cache
