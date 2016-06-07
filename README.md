@@ -1,3 +1,3 @@
 # MyTetris
-C# classic game
+C# classic game    
 Players can choose different game difficulty.
